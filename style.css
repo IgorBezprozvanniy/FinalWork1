@@ -16,7 +16,7 @@ body{
    flex-direction: column;
    font-family: 'Montserrat', sans-serif;
 }
-.nav-tabs>img{
+.nav-tabs>link{
    margin-top: 10px;
    width: 25px;
 }
