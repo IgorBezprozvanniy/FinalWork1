@@ -1447,7 +1447,7 @@ footer>img{
    }
    .hotells{
       position: absolute;
-      top: 650px;
+      top: 850px;
       font-family: 'Montserrat', sans-serif;
       display: flex;
       flex-direction: row;
@@ -1515,7 +1515,7 @@ footer>img{
       justify-content: center;
       align-items: center;
       position: absolute;
-      top: 800px;
+      top: 1200px;
    }
    .anhhead{
       width: 450px;
