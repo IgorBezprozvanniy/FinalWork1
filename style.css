@@ -2295,13 +2295,13 @@ footer>img{
        align-items: center;
     }
     .ar{
-       transform: rotate(90deg);
+      transform: rotate(90deg);
        width: 20px;
        height: 20px;
     }
     .forma{
        position: relative;
-       left: 30px;
+       left: 40px;
        padding: 20px;
        background-color:  #F8F8F8;
     }
@@ -2383,7 +2383,7 @@ footer>img{
        font-size: 13px;
     }
     .novostitop>button{
-       margin-left: 150px;
+       margin-left: 130px;
        background-color: rgba(0, 0, 0, 0);
        border: #969696 1px solid;
        padding: 5px 10px;
@@ -2452,10 +2452,10 @@ footer>img{
     }
     .blogtop>h2{
        font-weight: 500;
-       font-size: 20px;
+       font-size: 13px;
     }
     .blogtop>button{
-       margin-left: 250px;
+       margin-left: 150px;
        background-color: rgba(0, 0, 0, 0);
        border: #969696 1px solid;
        padding: 10px 15px;
